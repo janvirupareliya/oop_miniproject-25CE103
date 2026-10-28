@@ -2,7 +2,7 @@
 
 Menu-driven console banking application built step by step over 14 labs.
 
-**Student:** <YOUR NAME> &nbsp;|&nbsp; **Roll No:** <ROLL NO> &nbsp;|&nbsp; **Repository:** `oop-minibank-<rollno>`
+**Student:** Janvi Rupareliya &nbsp;|&nbsp; **Roll No:** 25CE103 &nbsp;|&nbsp; **Repository:** `oop_miniproject-25CE103`
 
 ## Features
 - Open Savings / Current / Fixed Deposit accounts (input validated with regular expressions)
